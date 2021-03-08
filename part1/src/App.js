@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <h1>Titulo de la App</h1>
       <Mensaje color='red' message='ahora seee!' />
-      <strong><Description /></strong>
+      <Description />
     </div>
   );
 }
